@@ -1,7 +1,7 @@
 package = "losc"
 version = "scm-0"
 source = {
-   url = "git+https://github.com/davidgranstrom/losc.git"
+   url = "git+https://github.com/Simon-L/losc.git"
 }
 description = {
    summary = "OSC 1.0 library.",
